@@ -1,0 +1,54 @@
+﻿title: 1Story
+tags:
+---
+<<layer character>>
+수나라 진영
+
+<<mainEnemy character>>
+우중문: 평양성까지 이리 쉽게 도착하다니!
+우중문: 조금 지치긴 했지만, 이번에야말로 우리가 승리하겠구만!
+
+(편지 전달 게임)
+<<1Story1 Canvas>>
+===
+title: 1Story1
+---
+<<mainEnemy character>>
+우중문: 이건...
+
+<<layer character>>
+'수나라가 군대를 물리면, 왕과 함께 항복하겠다.' -을지문덕 보냄
+
+<<mainEnemy character>>
+우중문: 당했구나...! 
+우중문: 어쩔 수 없지... 퇴각하는 수 밖에.
+
+<<1Story2 Canvas>>
+===
+title: 1Story2
+---
+<<layer character>>
+<<wait 1>>
+
+<<mainS character>>
+을지문덕: 앞에는 평양성, 뒤로는 살수(청천강)에 갇힌 수나라군은 이미 독 안에 든 쥐다. 
+을지문덕: 퇴각하는 수나라군을 놓치지 말고 돌격하라!
+
+(화살 게임)
+<<1Story3 Canvas>>
+===
+title: 1Story3
+---
+<<miniR character>>
+로봇: 수고했어! 여기 약속대로 백자 한 조각을 줄게.
+
+<<miniH character>>
+주인공: 이거 4개 다 모으면 집에 돌려보내주기로 약속한거 맞지?
+
+<<miniR character>>
+로봇: 그래그래.
+로봇: 이것이 바로 그 유명한 살수 대첩이야! 
+로봇: 이때 수나라 군대 30만 명 중에 살아 돌아간 사람이 겨우 2700명이었어. 정말 큰 승리였지. 
+로봇: 이렇게 크게 이긴 전쟁 전투를 대첩이라고 해. 그래서 이 전투를 살수 대첩이라고 불러!
+
+===
