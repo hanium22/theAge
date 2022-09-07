@@ -65,4 +65,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/choose_3what.unity
     guid: ea813fbe650d19d4eb7a4f33b47eb60b
+  - enabled: 1
+    path: Assets/preArrowGame.unity
+    guid: 84b9946cc9bb43a44a7cbc21ac3e817d
   m_configObjects: {}

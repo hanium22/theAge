@@ -35,10 +35,10 @@ public class Player : MonoBehaviour
     }
     void changeScene()
     {
-        if (GameController.sec > 10)
+        if (GameController.sec > 4)
             SceneManager.LoadScene("1Story 3");
         else
-            SceneManager.LoadScene("avoidRain3");
+            SceneManager.LoadScene("preArrowGame");
     }
     // Start is called before the first frame update
     void Start()
