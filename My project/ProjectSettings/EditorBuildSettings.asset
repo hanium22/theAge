@@ -44,4 +44,25 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainPage.unity
     guid: fc3ae718a9869d5408cb863731d3064f
+  - enabled: 1
+    path: Assets/Scenes/quiz 2_3.unity
+    guid: f0186689e03280642b62205bffb10067
+  - enabled: 1
+    path: Assets/Scenes/quiz 2_4.unity
+    guid: 887e1ef3a9abc1f4aa8315370e39c6da
+  - enabled: 1
+    path: Assets/Scenes/quiz 2_5.unity
+    guid: 3aa01c0059faf424cbed3b52d5efb673
+  - enabled: 1
+    path: Assets/Scenes/quiz 2_6.unity
+    guid: cf637306eac820444be72f6d5b9ea5bb
+  - enabled: 1
+    path: Assets/Scenes/quiz 2_7.unity
+    guid: efe2d9ba8ef74a342a4c0df37ac40212
+  - enabled: 1
+    path: Assets/Scenes/choose_QLevel.unity
+    guid: 8fc4f71fa4cace14aa5646ca5fea2a60
+  - enabled: 1
+    path: Assets/Scenes/choose_3what.unity
+    guid: ea813fbe650d19d4eb7a4f33b47eb60b
   m_configObjects: {}
