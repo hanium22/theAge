@@ -3,7 +3,20 @@ guid: 0733d683b08ab2248a699ff4eece0546
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - characterImg: {instanceID: 0}
+  - hero: {fileID: 21300000, guid: 08df09cf31c18c24fbe420794381ea93, type: 3}
+  - happyHero: {fileID: 21300000, guid: c4e838e19fc7ef344a1ecf0f032d59b7, type: 3}
+  - perplexedHero: {fileID: 21300000, guid: b1db6b0f5e4cfbe40baf08416d7a81f6, type: 3}
+  - miniHero: {fileID: 21300000, guid: 2cb6640bc8c2187428d1df4db6b2848d, type: 3}
+  - robot: {fileID: 21300000, guid: fab2cf05553f3634da5a91ba9f5e3811, type: 3}
+  - miniRobot: {fileID: 21300000, guid: 4512229541fad9c4290cf9494add05d5, type: 3}
+  - layer: {fileID: 21300000, guid: 3fad0d0a309b54e4cb1750c0304e7993, type: 3}
+  - ceramic: {fileID: 21300000, guid: bea6c3a9775b4644195b973baac25338, type: 3}
+  - brokenCeramic: {fileID: 21300000, guid: e6c71ae2501243241a8493357bb79578, type: 3}
+  - mainSoldier: {fileID: 21300000, guid: 4ce369836eb49364994379a45c79c6e7, type: 3}
+  - enemy: {fileID: 21300000, guid: 0fc246a1dafe2fd40a958acfaa69fdbc, type: 3}
+  - enemies: {fileID: 21300000, guid: 17658b6dde183044f887778ad90af6f6, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

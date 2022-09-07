@@ -13,14 +13,14 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637978972966041376
-    m_Hash: 2520932088
+      ticks: 637981572750921560
+    m_Hash: 3548998920
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
 m_ProjectPath: C:/Users/Administrator/My project/Packages
-m_EditorVersion: 2021.3.8f1 (b30333d56e81)
+m_EditorVersion: 2021.3.5f1 (40eb3a945986)
 m_ResolvedPackages:
 - packageId: com.unity.collab-proxy@1.17.1
   testable: 0
@@ -106,6 +106,8 @@ m_ResolvedPackages:
     - 2.1.0-preview.5
     - 2.1.0-preview.6
     compatible:
+    - 1.15.18
+    - 1.17.0
     - 1.17.1
     - 1.17.2
     - 2.0.0-preview.6
@@ -118,13 +120,13 @@ m_ResolvedPackages:
     - 2.1.0-preview.3
     - 2.1.0-preview.5
     - 2.1.0-preview.6
-    verified: 1.17.2
+    verified: 1.15.18
   dependencies:
   - name: com.unity.services.core
     version: 1.0.1
   resolvedDependencies:
   - name: com.unity.services.core
-    version: 1.4.2
+    version: 1.4.0
   - name: com.unity.modules.unitywebrequest
     version: 1.0.0
   - name: com.unity.nuget.newtonsoft-json
@@ -163,7 +165,7 @@ m_ResolvedPackages:
     revision: 2346af88036ac7256d898e0bb536f60220ce6e18
     path: 
   unityLifecycle:
-    version: 1.17.1
+    version: 1.15.18
     nextVersion: 
 - packageId: com.unity.feature.development@1.0.1
   testable: 0
@@ -305,6 +307,7 @@ m_ResolvedPackages:
     - 3.0.14
     - 3.0.15
     compatible:
+    - 3.0.14
     - 3.0.15
     verified: 3.0.15
   dependencies:
@@ -332,7 +335,7 @@ m_ResolvedPackages:
     revision: b61ff0378932fdf03b5891e09c91728337de674c
     path: 
   unityLifecycle:
-    version: 3.0.15
+    version: 3.0.14
     nextVersion: 
 - packageId: com.unity.ide.visualstudio@2.0.16
   testable: 0
@@ -376,6 +379,7 @@ m_ResolvedPackages:
     - 2.0.15
     - 2.0.16
     compatible:
+    - 2.0.15
     - 2.0.16
     verified: 2.0.16
   dependencies:
@@ -409,7 +413,7 @@ m_ResolvedPackages:
     revision: c01855ef6461b821ab0226135e96a4ee86de96be
     path: 
   unityLifecycle:
-    version: 2.0.16
+    version: 2.0.15
     nextVersion: 
 - packageId: com.unity.ide.vscode@1.2.5
   testable: 0
@@ -958,7 +962,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: tool
+  type: 
   description: 'Visual scripting is a workflow that uses visual, node-based graphs
     to design behaviors rather than write lines of C# script.
 
@@ -3138,12 +3142,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.1
     nextVersion: 
-- packageId: com.unity.services.core@1.4.2
+- packageId: com.unity.services.core@1.4.0
   testable: 0
   isDirectDependency: 0
-  version: 1.4.2
+  version: 1.4.0
   source: 1
-  resolvedPath: C:\Users\Administrator\My project\Library\PackageCache\com.unity.services.core@1.4.2
+  resolvedPath: C:\Users\Administrator\My project\Library\PackageCache\com.unity.services.core@1.4.0
   assetPath: Packages/com.unity.services.core
   name: com.unity.services.core
   displayName: Services Core
@@ -3178,6 +3182,8 @@ m_ResolvedPackages:
     - 1.4.2
     - 1.4.3
     compatible:
+    - 1.4.0
+    - 1.4.1
     - 1.4.2
     - 1.4.3
     verified: 1.4.3
@@ -3205,16 +3211,16 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637919618520000000
+  datePublishedTicks: 637871962570000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
-    revision: 3964d1641ebec474aa425853985bccbdb89c2a49
+    revision: 92e281deb97a96f7b32464b6874de73a17c140ff
     path: 
   unityLifecycle:
-    version: 1.4.2
+    version: 1.4.0
     nextVersion: 
 - packageId: com.unity.settings-manager@1.0.3
   testable: 0
@@ -3287,7 +3293,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: library
+  type: 
   description: 'Newtonsoft Json for use in Unity projects and Unity packages. Currently
     synced to version 13.0.1.
 

@@ -2,12 +2,12 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using Yarn.Unity;
+using Yarn.Unity; // yarn namespace
 
 public class characterShift : MonoBehaviour
 {
-    public GameObject characterImg;
-    public Sprite hero;
+    public GameObject characterImg; // 캐릭터 이미지 넣을 게임오브젝트
+    public Sprite hero; // 캐릭터 이미지
     public Sprite happyHero;
     public Sprite perplexedHero;
     public Sprite miniHero;
@@ -20,7 +20,7 @@ public class characterShift : MonoBehaviour
     public Sprite enemy;
     public Sprite enemies;
 
-    [YarnCommand("layer")]
+    [YarnCommand("layer")] // " "안에 커맨드 이름 설정
     public void Layer()
     {
         characterImg.GetComponent<Image>().sprite = layer;
@@ -50,7 +50,7 @@ public class characterShift : MonoBehaviour
         characterImg.GetComponent<Image>().sprite = miniHero;
     }
 
-    [YarnCommand("robot")]
+    [YarnCommand("Robot")]
     public void Robot()
     {
         characterImg.GetComponent<Image>().sprite = robot;
