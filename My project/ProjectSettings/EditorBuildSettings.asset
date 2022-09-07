@@ -29,4 +29,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/1Story 3.unity
     guid: 45a6f0e8f4eb25d4c9c930e9b25aecb0
+  - enabled: 1
+    path: Assets/Scenes/quiz 2_2.unity
+    guid: bd7b7933bdc76d24a803c258ced58eef
+  - enabled: 1
+    path: Assets/Scenes/quiz 2_1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Assets2/Scenes/avoidRain/avoidRain3.unity
+    guid: 20b4d9ef48aecba479b2be68a7b10644
+  - enabled: 1
+    path: Assets/Scenes/LoginPage.unity
+    guid: 3836bf336b0e0a540ac695ceda2c51a3
+  - enabled: 1
+    path: Assets/Scenes/MainPage.unity
+    guid: fc3ae718a9869d5408cb863731d3064f
   m_configObjects: {}

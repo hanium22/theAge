@@ -49,4 +49,10 @@ public class sceneShift : MonoBehaviour
     {
         SceneManager.LoadScene("1Story 3");
     }
+    [YarnCommand("avoidRain3")]
+    public void arrowGame()
+    {
+        SceneManager.LoadScene("avoidRain3");
+    }
+
 }

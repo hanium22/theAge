@@ -10,7 +10,7 @@ public class GameController : MonoBehaviour
     //public GameObject uiStartGameObject;
     // Start is called before the first frame update
 
-    int sec;
+    public static int sec;
 
     void Start()
     {

@@ -35,7 +35,10 @@ public class Player : MonoBehaviour
     }
     void changeScene()
     {
-        SceneManager.LoadScene("avoidRain2");
+        if (GameController.sec > 10)
+            SceneManager.LoadScene("1Story 3");
+        else
+            SceneManager.LoadScene("avoidRain3");
     }
     // Start is called before the first frame update
     void Start()
@@ -47,20 +50,20 @@ public class Player : MonoBehaviour
     void Update()
     {
         Vector3 myPos = transform.position;
-        Debug.Log("위치:" + transform.position);
-        if (dir == "up" && (myPos.y<=54.53))
+        //Debug.Log("위치:" + transform.position);
+        if (dir == "up" && (myPos.y<=34))
         {
             transform.Translate(Vector3.up*0.2f);
         }
-        else if (dir == "left" && (myPos.x >= -21))
+        else if (dir == "left" && (myPos.x >= -96))
         {
             transform.Translate(Vector3.left * 0.2f);
         }
-        else if (dir == "down" && (myPos.y >= -49.61))
+        else if (dir == "down" && (myPos.y >= -32))
         {
             transform.Translate(Vector3.down * 0.2f);
         }
-        else if (dir=="right" && (myPos.x <= 19))
+        else if (dir=="right" && (myPos.x <= 96))
         {
             transform.Translate(Vector3.right * 0.2f);
         }
