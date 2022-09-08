@@ -19,6 +19,4 @@ public class UserInfo : MonoBehaviour
         Debug.Log(UserPassword);
     }
 
-
-
 }
