@@ -12,9 +12,9 @@ public class UserInfo : MonoBehaviour
         UserName = username;
         Debug.Log(UserName);
     }
+
     public void SetPassword(string userpassword)
     {
-
         UserPassword = userpassword;
         Debug.Log(UserPassword);
     }

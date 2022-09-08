@@ -10,6 +10,8 @@ using UnityEngine.SceneManagement;
 
 public class Web : MonoBehaviour
 {
+    public static string realusername;
+
     void Start()
     {
         //StartCoroutine(Login("haeun","pw1234"));
@@ -34,18 +36,19 @@ public class Web : MonoBehaviour
                 //MainScript.Instance.UserInfo.SetUsername(username);
                 //MainScript.Instance.UserInfo.SetUsername(www.downloadHandler.text);
                 //MainScript.Instance.UserInfo.SetPassword(password);
+
                 if (www.downloadHandler.text.Contains("wrong password") || www.downloadHandler.text.Contains("Username does not exist."))
                 {
                     Debug.Log("Try Again");
                     //errorpopup.SetActive(true);
-                    Invoke("popupDeactivate", 2f);
+                    //Invoke("popupDeactivate", 2f);
                 }
                 //If we logged in correctly
                 else
                 {
-                    Debug.Log("logged in correctly");
+                    Debug.Log("logged in correctly"); 
                     SceneManager.LoadScene("MainPage");
-                    //realusername = username;
+                    realusername = username;
                     //MainScript.Instance.UserProfile.SetActive(true);
                     //MainScript.Instance.Login.gameObject.SetActive(false);
                 }

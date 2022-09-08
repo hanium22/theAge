@@ -6,37 +6,37 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Intro.unity
+    path: Assets/Scenes/Intro/Intro.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/Intro 1.unity
+    path: Assets/Scenes/Intro/Intro 1.unity
     guid: 61ec28ea4705fcb409ea4973c50ddb08
   - enabled: 1
-    path: Assets/Scenes/Intro 2.unity
+    path: Assets/Scenes/Intro/Intro 2.unity
     guid: e184440031ecf444785b82101b64e2d3
   - enabled: 1
-    path: Assets/Scenes/Intro 3.unity
+    path: Assets/Scenes/Intro/Intro 3.unity
     guid: e3ecec8af9f41ad4bb26afde564479f1
   - enabled: 1
-    path: Assets/Scenes/1Story.unity
+    path: Assets/Scenes/1Story/1Story.unity
     guid: c039f0fa4fc607542ab1bf4b61da1d0c
   - enabled: 1
-    path: Assets/Scenes/1Story 1.unity
+    path: Assets/Scenes/1Story/1Story 1.unity
     guid: 3c46abcabd44a654a955cc3a248eaeb5
   - enabled: 1
-    path: Assets/Scenes/1Story 2.unity
+    path: Assets/Scenes/1Story/1Story 2.unity
     guid: fefa5d279c0dc80439e85fd7b5b7391f
   - enabled: 1
-    path: Assets/Scenes/1Story 3.unity
+    path: Assets/Scenes/1Story/1Story 3.unity
     guid: 45a6f0e8f4eb25d4c9c930e9b25aecb0
   - enabled: 1
-    path: Assets/Scenes/quiz 2_2.unity
+    path: Assets/Scenes/quiz/quiz 2_2.unity
     guid: bd7b7933bdc76d24a803c258ced58eef
   - enabled: 1
-    path: Assets/Scenes/quiz 2_1.unity
+    path: Assets/Scenes/quiz/quiz 2_1.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Assets2/Scenes/avoidRain/avoidRain3.unity
+    path: Assets/Scenes/avoidRain/avoidRain3.unity
     guid: 20b4d9ef48aecba479b2be68a7b10644
   - enabled: 1
     path: Assets/Scenes/LoginPage.unity
@@ -45,19 +45,19 @@ EditorBuildSettings:
     path: Assets/Scenes/MainPage.unity
     guid: fc3ae718a9869d5408cb863731d3064f
   - enabled: 1
-    path: Assets/Scenes/quiz 2_3.unity
+    path: Assets/Scenes/quiz/quiz 2_3.unity
     guid: f0186689e03280642b62205bffb10067
   - enabled: 1
-    path: Assets/Scenes/quiz 2_4.unity
+    path: Assets/Scenes/quiz/quiz 2_4.unity
     guid: 887e1ef3a9abc1f4aa8315370e39c6da
   - enabled: 1
-    path: Assets/Scenes/quiz 2_5.unity
+    path: Assets/Scenes/quiz/quiz 2_5.unity
     guid: 3aa01c0059faf424cbed3b52d5efb673
   - enabled: 1
-    path: Assets/Scenes/quiz 2_6.unity
+    path: Assets/Scenes/quiz/quiz 2_6.unity
     guid: cf637306eac820444be72f6d5b9ea5bb
   - enabled: 1
-    path: Assets/Scenes/quiz 2_7.unity
+    path: Assets/Scenes/quiz/quiz 2_7.unity
     guid: efe2d9ba8ef74a342a4c0df37ac40212
   - enabled: 1
     path: Assets/Scenes/choose_QLevel.unity
@@ -68,4 +68,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/preArrowGame.unity
     guid: 84b9946cc9bb43a44a7cbc21ac3e817d
+  - enabled: 1
+    path: Assets/Scenes/FirstPage.unity
+    guid: da2363b471657794eb4363dfb5cbe345
+  - enabled: 1
+    path: Assets/Scenes/RegisterPage.unity
+    guid: 8e2b2ad197b0282469da94afa7f5c1a3
+  - enabled: 1
+    path: Assets/Scenes/StoryMap/StoryMap1.unity
+    guid: 611b8ff5dbbf854449dbcf352750ab62
+  - enabled: 1
+    path: Assets/Scenes/StoryMap/StoryMap2.unity
+    guid: 55d4a7843e7c9654db16218bb18c7905
   m_configObjects: {}

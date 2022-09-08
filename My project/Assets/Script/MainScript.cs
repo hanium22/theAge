@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class MainScript : MonoBehaviour
 {
-    public Web Web;
     public static MainScript Instance;
+    public Web Web;
     public UserInfo UserInfo;
 
     // Start is called before the first frame update
@@ -14,11 +14,5 @@ public class MainScript : MonoBehaviour
         Instance = this;
         Web = GetComponent<Web>();
         UserInfo = GetComponent<UserInfo>();
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 }
