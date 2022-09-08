@@ -921,7 +921,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: b37b2e8330aa83440995ca265b105c32, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 08df09cf31c18c24fbe420794381ea93, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1029,10 +1029,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   characterImg: {fileID: 1541336567}
-  robot: {fileID: 21300000, guid: 62a565d4fc3ca964f9235021c8c78da9, type: 3}
+  robot: {fileID: 21300000, guid: 4512229541fad9c4290cf9494add05d5, type: 3}
   soldier: {fileID: 21300000, guid: 7cde110e45bdfad41a12c2779290a125, type: 3}
   mainSoldier: {fileID: 21300000, guid: 713c97b03b4089243adf04c1885cbb07, type: 3}
-  ch: {fileID: 21300000, guid: b37b2e8330aa83440995ca265b105c32, type: 3}
+  ch: {fileID: 21300000, guid: 2cb6640bc8c2187428d1df4db6b2848d, type: 3}
 --- !u!1 &1631379574
 GameObject:
   m_ObjectHideFlags: 0
@@ -1091,7 +1091,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 62a565d4fc3ca964f9235021c8c78da9, type: 3}
+  m_Sprite: {fileID: 21300000, guid: fab2cf05553f3634da5a91ba9f5e3811, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

@@ -49,10 +49,16 @@ public class sceneShift : MonoBehaviour
     {
         SceneManager.LoadScene("1Story 3");
     }
+
     [YarnCommand("preArrowGame")]
     public void arrowGame()
     {
         SceneManager.LoadScene("preArrowGame");
     }
 
+    [YarnCommand("storyMap")]
+    public void storyMap1()
+    {
+        SceneManager.LoadScene("StoryMap1");
+    }
 }
