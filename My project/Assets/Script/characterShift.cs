@@ -19,7 +19,7 @@ public class characterShift : MonoBehaviour
     public Sprite mainSoldier;
     public Sprite enemy;
     public Sprite enemies;
-
+   
     [YarnCommand("layer")] // " "안에 커맨드 이름 설정
     public void Layer()
     {
