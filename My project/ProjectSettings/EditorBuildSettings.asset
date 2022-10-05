@@ -80,4 +80,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/StoryMap/StoryMap2.unity
     guid: 55d4a7843e7c9654db16218bb18c7905
+  - enabled: 1
+    path: Assets/Scenes/quiz/quiz 1_1.unity
+    guid: 200c420108852e04ba444edc71e508ea
+  - enabled: 1
+    path: Assets/Scenes/quiz/quiz 2_8.unity
+    guid: 99e0033cab3fb5d4e8208ace51535926
+  - enabled: 1
+    path: Assets/Scenes/quiz/quiz 2_9.unity
+    guid: 92336f5470253b5478c2a5862218ca6c
+  - enabled: 1
+    path: Assets/NoteDeco/NoteDeco.unity
+    guid: 1cb81b4acc414514fb9e44bcd1677780
   m_configObjects: {}
