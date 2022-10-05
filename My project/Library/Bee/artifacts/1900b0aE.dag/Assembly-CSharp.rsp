@@ -362,6 +362,8 @@
 "Assets/Assets2/Joistick.cs"
 "Assets/Assets2/MovementController.cs"
 "Assets/Assets2/TutorialInfo/Scripts/Readme.cs"
+"Assets/NoteDeco/Drag.cs"
+"Assets/person.cs"
 "Assets/Scenes/findPicture/Clear.cs"
 "Assets/Scenes/findPicture/fadeAway.cs"
 "Assets/Scenes/findPicture/TimerSlider.cs"
