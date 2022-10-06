@@ -90,6 +90,9 @@ EditorBuildSettings:
     path: Assets/Scenes/quiz/quiz 2_9.unity
     guid: 92336f5470253b5478c2a5862218ca6c
   - enabled: 1
-    path: Assets/NoteDeco/NoteDeco.unity
+    path: Assets/Scenes/NoteDeco.unity
     guid: 1cb81b4acc414514fb9e44bcd1677780
+  - enabled: 1
+    path: Assets/Scenes/dic.unity
+    guid: ccd658e80afd12247baec3f759cd8d2b
   m_configObjects: {}
