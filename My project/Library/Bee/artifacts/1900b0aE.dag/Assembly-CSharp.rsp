@@ -364,6 +364,8 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/YarnSpinner.Unity.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/YarnSpinner.Unity.ref.dll"
 "Assets/Assets2/TutorialInfo/Scripts/Readme.cs"
+"Assets/dino/Player1.cs"
+"Assets/dino/Wall.cs"
 "Assets/image/Joistick.cs"
 "Assets/image/MovementController.cs"
 "Assets/person.cs"
